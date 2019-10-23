@@ -1,0 +1,33 @@
+<view>
+    <view class="holder">
+        <view class="icon">
+            <view class="time-item">
+                <image class="icon-img" src="/static/sun.png" mode="aspectFill"></image>
+            </view>
+            <view class="time-item">
+                <image class="icon-img" src="/static/sun.png" mode="aspectFill"></image>
+            </view>
+            <view class="time-item">
+                <image class="icon-img" src="/static/rainy.png" mode="aspectFill"></image>
+            </view>
+            <view class="time-item">
+                <image class="icon-img" src="/static/sun.png" mode="aspectFill"></image>
+            </view>
+            <view class="time-item">
+                <image class="icon-img" src="/static/sun.png" mode="aspectFill"></image>
+            </view>
+            <view class="time-item">
+                <image class="icon-img" src="/static/rainy.png" mode="aspectFill"></image>
+            </view>
+        </view>
+        <canvas class="canvas" canvas-id="myCanvas"></canvas>
+        <view class="time">
+            <view class="time-item">现在</view>
+            <view class="time-item">6:00</view>
+            <view class="time-item">8:00</view>
+            <view class="time-item">12:00</view>
+            <view class="time-item">14:00</view>
+            <view class="time-item">16:00</view>
+        </view>
+    </view>
+</view>

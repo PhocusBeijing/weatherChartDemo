@@ -1,0 +1,13 @@
+{
+    "pages": [
+        "pages/tianqi/index",
+        "pages/xianxing/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "腾讯汽车小程序",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json"
+}
